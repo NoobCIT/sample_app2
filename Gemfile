@@ -12,6 +12,10 @@ gem 'rails', '~> 5.0.5'
 # Hash function for passwords
 gem 'bcrypt'
 
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
